@@ -150,7 +150,7 @@ const App = () => {
     "/StoryDescriptionInput",
     "/LoadingPage",
     "/BookPage",
-    "/DashboardPage",
+    // "/DashboardPage",
     "/SettingsPage",
     "/LoginSign",
     "/AddFeedback",
@@ -190,14 +190,29 @@ const App = () => {
       </Routes>
 
       {/* ✅ فقط إذا مو بصفحات القصة */}
-      {!shouldHideSections && (
+      {/* {!shouldHideSections && (
         <>
           <HOWITWORS />
           <Testimonial />
           <WhyChoose />
           <Footer />
         </>
-      )}
+      )} */}
+      {location.pathname === "/DashboardPage" ? (
+  <>
+    <Testimonial />
+    <WhyChoose />
+    <Footer />
+  </>
+) : !shouldHideSections && (
+  <>
+    <HOWITWORS />
+    <Testimonial />
+    <WhyChoose />
+    <Footer />
+  </>
+)}
+
     </div>
   );
 };

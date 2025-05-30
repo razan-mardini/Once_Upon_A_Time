@@ -131,7 +131,7 @@ const Footer = () => {
   return (
     <div className="w-full text-gray-800 font-sans">
       {/* Gradient Header Section */}
-      <div className="bg-gradient-to-r from-purple-600 to-pink-500 text-white text-center py-16">
+      {/* <div className="bg-gradient-to-r from-purple-600 to-pink-500 text-white text-center py-16">
         <h1 className="text-3xl md:text-4xl font-bold mb-4">
           Start Your Child s Adventure Today
         </h1>
@@ -146,7 +146,7 @@ const Footer = () => {
             Learn More
           </button>
         </div>
-      </div>
+      </div> */}
 
       {/* Newsletter and Footer Section */}
       <div className="bg-white py-12 px-6 md:px-20 grid grid-cols-1 md:grid-cols-4 gap-10">
