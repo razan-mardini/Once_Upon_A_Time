@@ -1,0 +1,31 @@
+{
+  "title": "Adventure in the Enchanted Forest",
+  "dedication": "to my sister",
+  "recipient": {
+    "name": "razan",
+    "relationship": "sister",
+    "age": "8",
+    "occasion": "First day of school",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "Lily",
+    "characterName": "Lily",
+    "age": "8",
+    "skinTone": "Light",
+    "hairColor": "Golden",
+    "accessories": "Magic Hat"
+  },
+  "characters": [
+    {
+      "characterTrait": " Brave, curious, loves to explore",
+      "physicalAppearance": "Long brown hair, green eyes, wearing a blue dress"
+    },
+    {
+      "characterTrait": "rave, curious, loves to explore",
+      "physicalAppearance": "Long brown hair, green eyes, wearing a blue dress"
+    }
+  ],
+  "storyDescription": "Lily discovers a magical door in the forest that leads to a world full of mysterious creatures, but she must solve a riddle to find her way back!",
+  "numPages": "3"
+}

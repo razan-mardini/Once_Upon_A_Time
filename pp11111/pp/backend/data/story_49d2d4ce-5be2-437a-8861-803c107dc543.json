@@ -1,0 +1,32 @@
+{
+  "storyId": "49d2d4ce-5be2-437a-8861-803c107dc543",
+  "userId": "K33FGSDBQVMBSA7TljJbGKF6p1p1",
+  "title": "cats",
+  "dedication": "for my friend",
+  "recipient": {
+    "name": "Liam",
+    "relationship": "friend",
+    "age": "6",
+    "occasion": "First day of school",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "animal",
+    "characterName": "caty",
+    "age": "7",
+    "skinTone": "orange",
+    "hairColor": "orange",
+    "accessories": "no"
+  },
+  "storyDescription": "lovely cat  playing with his friends",
+  "numPages": "2",
+  "generatedStory": [
+    "Page 1:\nPage 1: Once upon a time, in a sunny neighborhood, lived a small orange cat named Caty. Caty was excited because it was her friend's first day of school. She was eager to introduce her friend Liam to everyone. Page 2:",
+    "Page 2:\nAs Liam nervously entered the school, Caty darted up a tree, waving frantically to catch the attention of her friends. They all came rushing towards Liam, their tails swishing with joy. They made Liam's first day at school very special."
+  ],
+  "imageUrls": [
+    "/images/K33FGSDBQVMBSA7TljJbGKF6p1p1/49d2d4ce-5be2-437a-8861-803c107dc543/img0.png",
+    "/images/K33FGSDBQVMBSA7TljJbGKF6p1p1/49d2d4ce-5be2-437a-8861-803c107dc543/img1.png"
+  ],
+  "timestamp": "2025-05-08T12:36:07.832Z"
+}

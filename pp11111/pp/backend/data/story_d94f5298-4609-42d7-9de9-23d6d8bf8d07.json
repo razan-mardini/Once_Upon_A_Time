@@ -1,0 +1,32 @@
+{
+  "storyId": "d94f5298-4609-42d7-9de9-23d6d8bf8d07",
+  "userId": "K33FGSDBQVMBSA7TljJbGKF6p1p1",
+  "title": "Leo the Brave Turtle",
+  "dedication": "to my little explorer",
+  "recipient": {
+    "name": "Emma",
+    "relationship": "daughter",
+    "age": "6",
+    "occasion": "Birthday",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "animal",
+    "characterName": "Leo",
+    "age": "7",
+    "skinTone": "green",
+    "hairColor": "no",
+    "accessories": "a little red backpack"
+  },
+  "storyDescription": "A kind turtle named Leo learns to be brave on his first day at school.",
+  "numPages": "2",
+  "generatedStory": [
+    "Page 1: On an ordinary sunny morning, Leo, a small green turtle, woke up feeling scared. He looked at his little red backpack and blinked his bright eyes nervously. \", Leo asked his reflection in the pond. But then, he put on a brave smile. Page 3: As he walked towards his school, Leo felt his heart thump loudly. With one deep breath, Leo stepped onto the playground, feeling very small but brave. Leo hesitated;",
+    "he had never played before. \" Page 5: The other turtles were surprised, but they welcomed Leo happily. He felt his worries melting away. Page 6: Later, in the classroom, Leo became nervous again. But Leo didn’t give up. Page 7: To his surprise, his teacher praised, \"Leo, your writing is very neat! He felt proud of himself. \" He thought. He looked at his red backpack and smiled. And tomorrow, he would be braver."
+  ],
+  "imageUrls": [
+    "/images/K33FGSDBQVMBSA7TljJbGKF6p1p1/d94f5298-4609-42d7-9de9-23d6d8bf8d07/img0.png",
+    "/images/K33FGSDBQVMBSA7TljJbGKF6p1p1/d94f5298-4609-42d7-9de9-23d6d8bf8d07/img1.png"
+  ],
+  "timestamp": "2025-05-24T22:03:17.873Z"
+}

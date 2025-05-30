@@ -1,0 +1,37 @@
+{
+  "title": "nmvhmv",
+  "dedication": "hgkhg",
+  "recipient": {
+    "name": "razan",
+    "relationship": "sister",
+    "age": "12",
+    "occasion": "Birthday",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "A little girl",
+    "characterName": "Brave Liam",
+    "age": "12",
+    "skinTone": "Light",
+    "hairColor": "Blonde",
+    "accessories": "Glasses"
+  },
+  "characters": [
+    {
+      "characterTrait": "Brave, Curious, Kind",
+      "physicalAppearance": "Short, wearing a purple dress, sparkly shoes"
+    },
+    {
+      "characterTrait": "Brave, Curious, Kind",
+      "physicalAppearance": "Short, wearing a purple dress, sparkly shoes",
+      "characterName": "Brave Liam",
+      "relationship": "Brother",
+      "age": "12",
+      "skinTone": "Fair",
+      "hairColor": "Blonde",
+      "accessories": "Magic Hat"
+    }
+  ],
+  "physicalAppearance": "khfljkghj",
+  "storyDescription": "kjfdlkdgkgjkckgjlkcfjjg"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Adventure in the Land of Magic",
+  "dedication": "My little sister",
+  "recipient": {
+    "name": "Leila",
+    "relationship": "sister",
+    "age": "8",
+    "occasion": "Birthday",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "boy",
+    "characterName": "Sammy",
+    "age": "10",
+    "skinTone": "Brown",
+    "hairColor": "Black",
+    "accessories": "Blue T-shirt and denim jeans"
+  },
+  "storyDescription": "Sammy, a curious young boy, embarks on an unexpected adventure after discovering a magical map in his attic. Alongside his loyal dog, Max, he navigates through enchanted forests, puzzles, and mysterious creatures, learning valuable lessons about bravery, friendship, and the importance of curiosity.",
+  "numPages": "4",
+  "generatedStory": [
+    "Page 1:\nPage 1: Once upon a time, there was a curious brown-skinned boy named Sammy. Whenever he'd find something new or interesting, his eyes would light up brighter than any stars in the night sky. One sunny afternoon, Sammy was exploring the old attic in his house when he found an ancient-looking map hidden beneath a pile of dusty books. ' thought Sammy. Intrigued, he decided to decode",
+    "Page 2:\nthe map with the help of his best friend, Max. Then, in a flash of twinkling light, Sammy and Max found themselves in an enchanted forest filled with trees that sparkled like diamonds. It was colorfully vibrant, unlike anything they had ever seen. But no journey in the enchanted forest is ever easy! Max would listen for clues in the melodies of songbirds, while Sammy could see",
+    "Page 3:\nshapes in the stars that he'd copy onto the map as they went. They met speaking squirrels, giggling pixies, and even a grumpy dragon! Even creatures that seemed intimidating had their own stories to share. They encountered a bridge guarded by a troll who posed a riddle. Max wagged his tail in approval, and the troll, impressed with Sammy’s courage, let them pass. The map sparked, indicating",
+    "Page 4:\nthat they have reached the end of their quest. \"Max,\" he said, \"we did it because we were brave and curious. ” Max wagged his tail enthusiastically, barking in agreement. Then, in a whirl of magic and light, they were back in the attic. He also knew that adventures were always better with a friend by his side. Sammy's story is a birthday gift for you."
+  ],
+  "imageUrls": [
+    "/images/user_user_1742933557605_img0.png",
+    "/images/user_user_1742933557605_img1.png",
+    "/images/user_user_1742933557605_img2.png",
+    "/images/user_user_1742933557605_img3.png"
+  ],
+  "timestamp": "2025-03-25T20:18:12.394Z"
+}

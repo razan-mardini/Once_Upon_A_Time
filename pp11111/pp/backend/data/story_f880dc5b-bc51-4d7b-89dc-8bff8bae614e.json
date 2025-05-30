@@ -1,0 +1,34 @@
+{
+  "storyId": "f880dc5b-bc51-4d7b-89dc-8bff8bae614e",
+  "userId": "user_1745178237934",
+  "title": "Adventure in the Enchanted Forest",
+  "dedication": "To my sister",
+  "recipient": {
+    "name": "razan",
+    "relationship": "sister",
+    "age": "8",
+    "occasion": "First day of school",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "girl",
+    "characterName": "Lily",
+    "age": "8",
+    "skinTone": "Light",
+    "hairColor": "brown ",
+    "accessories": "Magic Hat "
+  },
+  "storyDescription": "Lily discovers a magical door in the forest that leads to a world full of mysterious creatures, but she must solve a riddle to find her way back home!",
+  "numPages": "3",
+  "generatedStory": [
+    "Page 1:\nPage 1: As Lily walked home from her first day of school, she spotted a strange door in the forest. It was shimmering and oddly inviting. With her magic hat on, she decided to see where it led.",
+    "Page 2:\nPage 2: When Lily stepped through, she entered an Enchanted Forest. Everything sparkled, and delightful creatures greeted her. But one grumpy gnome told her, \"To find your way home, solve the riddle: What has keys but can't open",
+    "Page 3:\ndoors?\" Page 3: Lily thought hard. Suddenly, she remembered her music class. \"A piano!\", she exclaimed. The gnome smiled, and a door appeared. Lily stepped through and found herself back home, ready to share her magical adventure."
+  ],
+  "imageUrls": [
+    "/images/user_user_1745178237934_img0.png",
+    "/images/user_user_1745178237934_img1.png",
+    "/images/user_user_1745178237934_img2.png"
+  ],
+  "timestamp": "2025-04-20T19:47:35.962Z"
+}

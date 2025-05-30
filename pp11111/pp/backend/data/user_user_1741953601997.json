@@ -1,0 +1,37 @@
+{
+  "title": "Adventure in the Enchanted Forest",
+  "dedication": "to my sister",
+  "recipient": {
+    "name": "razan",
+    "relationship": "sister",
+    "age": "8",
+    "occasion": "First day of school",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "Lily",
+    "characterName": "Lily",
+    "age": "8",
+    "skinTone": "Light",
+    "hairColor": "Brown",
+    "accessories": "Magic Hat"
+  },
+  "characters": [
+    {
+      "characterTrait": "rave, curious, loves to explore",
+      "physicalAppearance": "Long brown hair, green eyes, wearing a blue dress"
+    }
+  ],
+  "storyDescription": "Lily discovers a magical door in the forest that leads to a world full of mysterious creatures, but she must solve a riddle to find her way back!",
+  "numPages": "3",
+  "generatedStory": [
+    "Part 1: The Discovery\nOnce upon a time, in a quaint little village nestled at the edge of the Enchanted Forest, lived a curious girl named Lily. Lily was only 8 years old, but she had a heart full of courage and a mind full of wonder. One sunny afternoon, while exploring the depths of the forest, Lily stumbled upon a peculiar door hidden behind a thicket of bushes. The door shimmered with an otherworldly glow, beckoning her to step closer. Without hesitation, Lily turned the brass handle and pushed the door open, stepping into a world beyond her wildest dreams.",
+    "Part 2: The Mysterious World\nAs Lily crossed the threshold, she found herself in a realm filled with magical creatures she had never seen before. Sparkling fairies flitted through the air, mischievous gnomes scurried among the trees, and colorful dragons soared overhead. The air was filled with the sweet scent of blooming flowers, and the trees whispered secrets of ancient times. Lily's eyes widened in amazement as she took in the beauty of this enchanted world.",
+    "Part 3: The Riddle of Return\nLost in the wonder of the magical world, Lily soon realized that she had no idea how to find her way back home. Panic began to rise in her chest until she heard a soft voice coming from the shadows. A wise old owl perched on a branch above her, its eyes twinkling with knowledge. \"To return home, you must solve the riddle of the enchanted door,\" the owl hooted. Lily listened closely as the owl posed a riddle that required all her wit and wisdom to unravel. With determination in her heart, Lily pondered the riddle and, after much thought, the answer finally came to her. The enchanted door opened once more, and with a grateful smile, Lily stepped back into the familiar forest, her heart filled with the memories of her incredible adventure in the Enchanted Forest."
+  ],
+  "imageUrls": [
+    "https://oaidalleapiprodscus.blob.core.windows.net/private/org-CcL1R443VeXHTPanOLMbpgp6/user-RX8ToS9490ywOZwPzwpr4NVm/img-oYJsLUwRyTYDPt3b142KN0vR.png?st=2025-03-14T11%3A48%3A57Z&se=2025-03-14T13%3A48%3A57Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-03-13T22%3A36%3A59Z&ske=2025-03-14T22%3A36%3A59Z&sks=b&skv=2024-08-04&sig=Drj/xs8f1YLxZ8XpXNLwozE1NtJviOA/tXQ2e5kJB0c%3D",
+    "https://oaidalleapiprodscus.blob.core.windows.net/private/org-CcL1R443VeXHTPanOLMbpgp6/user-RX8ToS9490ywOZwPzwpr4NVm/img-0hPooxPWUJoRsDfJCEs4pcMD.png?st=2025-03-14T11%3A48%3A57Z&se=2025-03-14T13%3A48%3A57Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-03-14T05%3A26%3A30Z&ske=2025-03-15T05%3A26%3A30Z&sks=b&skv=2024-08-04&sig=z3HG/hlxAdzdJOtCS4/wwMKiJ%2BDNMjn7GKaddhH4qpY%3D",
+    "https://oaidalleapiprodscus.blob.core.windows.net/private/org-CcL1R443VeXHTPanOLMbpgp6/user-RX8ToS9490ywOZwPzwpr4NVm/img-7WeTnHQcTvXs8HvMvptUu3Rl.png?st=2025-03-14T11%3A48%3A57Z&se=2025-03-14T13%3A48%3A57Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-03-14T11%3A09%3A13Z&ske=2025-03-15T11%3A09%3A13Z&sks=b&skv=2024-08-04&sig=qRgUcDCTQR5ScAp%2BzQIZO0jz/EzHOMR9laNRmC4P5Mg%3D"
+  ]
+}

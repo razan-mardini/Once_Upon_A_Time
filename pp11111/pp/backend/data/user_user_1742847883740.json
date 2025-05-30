@@ -1,0 +1,64 @@
+{
+  "title": "The Glow of the Jellyfish",
+  "dedication": "to my sister",
+  "recipient": {
+    "name": "Sarah",
+    "relationship": "sister",
+    "age": "6",
+    "occasion": "Birthday",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "animal",
+    "characterName": "Lumo",
+    "age": "6",
+    "skinTone": "A translucent body that glows in rainbow colors",
+    "hairColor": "no",
+    "accessories": "no"
+  },
+  "characters": [
+    {
+      "characterTrait": "",
+      "physicalAppearance": " Curious, kind, and a little shy, but brave when it matters most"
+    },
+    {
+      "characterTrait": "animal (fish)",
+      "characterName": "nemo",
+      "relationship": "Best Friend",
+      "age": "6",
+      "skinTone": "Goldfish",
+      "hairColor": "no",
+      "accessories": "no",
+      "physicalAppearance": "Bright orange with shiny, smooth scales",
+      "image": null
+    },
+    {
+      "characterTrait": "Curious and adventurous",
+      "physicalAppearance": "A translucent body that glows in rainbow colors"
+    },
+    {
+      "characterTrait": "animal (fish)",
+      "characterName": "nemo",
+      "relationship": "friend",
+      "age": "6",
+      "skinTone": "Goldfish",
+      "hairColor": "no",
+      "accessories": "no",
+      "physicalAppearance": "Bright orange with shiny, smooth scales",
+      "image": null
+    }
+  ],
+  "storyDescription": "Deep in the heart of the ocean, where the water glows with magical light, lived a tiny jellyfish named Lumo. Unlike the other jellyfish, Lumo's glow was different—it shimmered in all the colors of the rainbow. But instead of feeling special, Lumo felt out of place. One day, a great storm shook the sea, leaving the ocean creatures lost in the darkness. It was then that Lumo discovered the true power of his glow, guiding his friends back home and proving that being different is what makes us shine the brightest.",
+  "numPages": "3",
+  "generatedStory": [
+    "Dedicated to my sister\n\nPage 1:\n\nOnce upon an enchanting time, at the bottom of the brilliant, blue ocean where sea creatures swam happily, a tiny luminescent jellyfish named Lumo called it his home.",
+    "Lumo was no ordinary jellyfish. He was a charming little creature who fascinated everyone with his round, translucent body that gloriously glowed in numerous colors of the rainbow.\n\nHowever,",
+    "Lumo felt quite out of place. Unlike his friends, the turtle, the crab, and even the sea-anemone whose bodies bore but one color, Lumo’s glow was multicolored.\n\nPage"
+  ],
+  "imageUrls": [
+    null,
+    null,
+    null
+  ],
+  "timestamp": "2025-03-24T20:45:41.994Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Leo and the Magical Quest",
+  "dedication": "to my sister",
+  "recipient": {
+    "name": "ahmad",
+    "relationship": "Brother",
+    "age": "14",
+    "occasion": "Birthday",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "Leo",
+    "characterName": "Leo",
+    "age": "8",
+    "skinTone": "Light",
+    "hairColor": "Brown",
+    "accessories": "A magical quest"
+  },
+  "characters": [
+    {
+      "characterTrait": "Brave, Curious, Kind",
+      "physicalAppearance": "Wears a dark blue cloak with silver stars"
+    }
+  ],
+  "storyDescription": "Leo discovers an enchanted portal in his backyard leading to a magical world filled with talking animals and grand adventures.",
+  "numPages": "5"
+}

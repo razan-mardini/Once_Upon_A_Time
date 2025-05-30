@@ -1,0 +1,34 @@
+{
+  "storyId": "76e1ce4b-908e-4dec-afed-e8e6f92bc37c",
+  "userId": "K33FGSDBQVMBSA7TljJbGKF6p1p1",
+  "title": "Milo the Brave Bear",
+  "dedication": "To my little hero",
+  "recipient": {
+    "name": "Nour",
+    "relationship": "sibling",
+    "age": "5",
+    "occasion": "Graduation",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "animal",
+    "characterName": "Milo",
+    "age": "5",
+    "skinTone": "Soft brown fur with white patches",
+    "hairColor": "no",
+    "accessories": "a small red scarf"
+  },
+  "storyDescription": "In the peaceful Pine Forest lived a small bear named Milo who was scared of loud sounds. One day, a strong wind blew through the forest, making trees creak and animals panic. Milo wanted to hide, but instead, he put on his red scarf and decided to help. He guided the little animals to safety and showed everyone that courage means helping others even when you're afraid.",
+  "numPages": "3",
+  "generatedStory": [
+    "Page 1:\nPage 1: In the quiet corner of Pine Forest, Milo the Bear lived. Milo was scared of loud sounds. Trees creaked and swayed, and the small animals whimpered and scattered. Page 3: Milo wanted to hide away but he looked at his tiny red scarf. Tying the scarf",
+    "Page 2:\ntightly around his neck, he stepped forward. Next, he guided the squirrels back to their tree. Page 5: Then, Milo found a lost little bird, her wing injured. As he worked, he whispered comforting words, forgetting his fear. The wind had calmed, and so had Milo. Page 7:",
+    "Page 3:\nThe forest was safe again and Milo was no longer the bear who was scared of sounds. Page 8: The animals celebrated Milo’s bravery with a small graduation ceremony. Page 9: That night, Milo fell asleep under the star-lit sky, a brave bear with a tiny red scarf."
+  ],
+  "imageUrls": [
+    null,
+    null,
+    null
+  ],
+  "timestamp": "2025-04-24T19:34:13.469Z"
+}

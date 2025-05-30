@@ -1,0 +1,30 @@
+{
+  "storyId": "20923b05-528f-4f82-ab18-6593b45f4cd6",
+  "userId": "K33FGSDBQVMBSA7TljJbGKF6p1p1",
+  "title": " the Turtle",
+  "dedication": "to my sister",
+  "recipient": {
+    "name": "Nour",
+    "relationship": "sibling",
+    "age": "7",
+    "occasion": "First day of school",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "animal",
+    "characterName": "Leo",
+    "age": "7",
+    "skinTone": "green",
+    "hairColor": "no",
+    "accessories": "A little red backpack"
+  },
+  "storyDescription": "a kind turtle exploring school for the first time",
+  "numPages": "1",
+  "generatedStory": [
+    "Page 1:\nPage 1: Once upon a sunny day, little Leo the turtle, with his green skin, packed his red backpack. Page 2: Bouncing down the path, he stopped by a tall tree and stared at its top. That's tall like our school,\" he thought. The fish seemed to say, \"Good luck, Leo! Page 4: A butterfly landed on Leo's backpack. Page 5: At the school gate, Leo looked at the big building. Page 6: In his classroom, Leo saw colorful seats. He chose one right at the front. They shared funny stories and laughed while munching. Page 8: By the end of the day, Leo couldn't wait to come back. Page 9: Tired but happy, Leo went home. He thought, \"I love school! He saw himself learning, playing, and making more friends each day."
+  ],
+  "imageUrls": [
+    "/images/K33FGSDBQVMBSA7TljJbGKF6p1p1/20923b05-528f-4f82-ab18-6593b45f4cd6/img0.png"
+  ],
+  "timestamp": "2025-05-20T19:40:10.886Z"
+}

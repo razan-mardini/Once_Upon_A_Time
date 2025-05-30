@@ -1,0 +1,32 @@
+{
+  "title": "The Brave Little Fish",
+  "dedication": "To all the brave hearts",
+  "recipient": {
+    "name": "Lily",
+    "relationship": "sister",
+    "age": "6",
+    "occasion": "Graduation",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "fish",
+    "characterName": "Finn",
+    "age": "4",
+    "skinTone": "blue",
+    "hairColor": "no",
+    "accessories": "a small shiny scale on his tail"
+  },
+  "storyDescription": "A story about a little fish named Finn who goes on an adventure to find the legendary golden shell in the deep ocean, overcoming challenges along the way.",
+  "numPages": "3",
+  "generatedStory": [
+    "Page 1:\nPage 1: Deep under the blue sea, lived a 4-year-old fish named Finn. Page 2: Finn loved to explore the ocean. He decided to embark on a brave adventure to find it. He saw shadows of big, fearsome sea creatures, but he was unperturbed. Page 4: Suddenly, a strong",
+    "Page 2:\ncurrent began to swirl around him. He swam against the current valiantly, his shiny tail pushing him forward. He admired the colorful corals, their beauty giving him the encouragement he needed to continue his journey. Just then, he spotted a dim light. Page 7: He swam towards the light",
+    "Page 3:\naround thousands of sleeping sea anemones. Finn couldn't believe his eyes; he had found the legendary golden shell! When he returned, everyone applauded his bravery. Page 9: Finn kept the golden shell next to his shiny scale. Page 10: Finn's adventure inspired all the little fish in the sea."
+  ],
+  "imageUrls": [
+    null,
+    "/images/user_user_1742939707968_img1.png",
+    "/images/user_user_1742939707968_img2.png"
+  ],
+  "timestamp": "2025-03-25T21:59:20.627Z"
+}

@@ -1,0 +1,32 @@
+{
+  "storyId": "74404d3c-7c2c-4793-a527-aa44c7720318",
+  "userId": "K33FGSDBQVMBSA7TljJbGKF6p1p1",
+  "title": "the little bird",
+  "dedication": "to my brother",
+  "recipient": {
+    "name": "ahmad",
+    "relationship": "sibling",
+    "age": "6",
+    "occasion": "Birthday",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "animal",
+    "characterName": "Leo",
+    "age": "6",
+    "skinTone": "colorful feathers",
+    "hairColor": "no",
+    "accessories": "no"
+  },
+  "storyDescription": "a little bird , playing with his friends ",
+  "numPages": "2",
+  "generatedStory": [
+    "Page 1:\nPage 1: Once upon a sunny day, Leo, a little bird with vibrant, colorful feathers, eager and bright, was flying high up in the sky, his heart filled with joy and laughter. Page 2: The chubby rabbits, playful squirrels, and timid",
+    "Page 2:\nmice were all part of Leo’s merry circle. Their laughter was as contagious as their zest for life. Remember, Ahmed, like Leo, you too can make every day colorful and every moment a celebration. Keep soaring high, because you are exceptional."
+  ],
+  "imageUrls": [
+    "/images/K33FGSDBQVMBSA7TljJbGKF6p1p1/74404d3c-7c2c-4793-a527-aa44c7720318/img0.png",
+    "/images/K33FGSDBQVMBSA7TljJbGKF6p1p1/74404d3c-7c2c-4793-a527-aa44c7720318/img1.png"
+  ],
+  "timestamp": "2025-05-20T20:08:25.640Z"
+}

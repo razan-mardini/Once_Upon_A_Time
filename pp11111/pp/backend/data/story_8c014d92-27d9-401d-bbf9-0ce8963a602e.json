@@ -1,0 +1,34 @@
+{
+  "storyId": "8c014d92-27d9-401d-bbf9-0ce8963a602e",
+  "userId": "user_1745180098435",
+  "title": "Adventure in the Enchanted Forest",
+  "dedication": "to my brother",
+  "recipient": {
+    "name": "ahmad",
+    "relationship": "brother",
+    "age": "8",
+    "occasion": "First day of school",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "girl",
+    "characterName": "lily",
+    "age": "8",
+    "skinTone": "light",
+    "hairColor": "brown ",
+    "accessories": "magic hat"
+  },
+  "storyDescription": "Lily discovers a magical door in the forest that leads to a world full of mysterious creatures, but she must solve a riddle to find her way back home!",
+  "numPages": "3",
+  "generatedStory": [
+    "Page 1:\nPage 1 \"Lily, with her magic hat, walks to her first day of school. \" Page 2 \"Feeling brave, Lily opens the enchanted door. She looks around wide-eyed! ' Lily, head tilted,",
+    "Page 2:\nthinks carefully. ' The owl nods approvingly and with a wave of its wing, a door appears. \" Page 5 \"Lily steps through into the familiar, warm sunshine. She grins, 'The real",
+    "Page 3:\nadventure is just beginning,' she whispers, heading to start her first day of school. She always remembers the enchanted forest, and the lessons it taught her about courage and wisdom."
+  ],
+  "imageUrls": [
+    "/images/user_user_1745180098435_img0.png",
+    "/images/user_user_1745180098435_img1.png",
+    "/images/user_user_1745180098435_img2.png"
+  ],
+  "timestamp": "2025-04-20T20:20:29.426Z"
+}

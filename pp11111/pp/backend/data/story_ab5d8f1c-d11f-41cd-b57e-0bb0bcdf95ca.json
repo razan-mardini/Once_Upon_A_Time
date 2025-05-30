@@ -1,0 +1,32 @@
+{
+  "storyId": "ab5d8f1c-d11f-41cd-b57e-0bb0bcdf95ca",
+  "userId": "TFvs3kIuTNNTRsrehFR3SUVcf3T2",
+  "title": "boby",
+  "dedication": "for my friends",
+  "recipient": {
+    "name": "Liam",
+    "relationship": "friend",
+    "age": "6",
+    "occasion": "First day of school",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "animal",
+    "characterName": "boby",
+    "age": "7",
+    "skinTone": "black and white dots",
+    "hairColor": "black ",
+    "accessories": "glasses"
+  },
+  "storyDescription": "lovely dog playing with his friends",
+  "numPages": "2",
+  "generatedStory": [
+    "Page 1:\nPage 1: On the first day of school, Boby, the dog with black and white dots, felt excited. He put on his favourite glasses and his shiny, black hair sparkled in the morning sunlight. Boby couldn't wait to see his friends. Page 2: During",
+    "Page 2:\nplaytime, Boby and his friends laughed and played. They raced under the bright blue sky, chasing their shadows. Boby's glasses twinkled as he ran faster, wagging his tail. It was so much fun playing with friends on their first day of school! "
+  ],
+  "imageUrls": [
+    null,
+    null
+  ],
+  "timestamp": "2025-04-22T10:36:03.974Z"
+}

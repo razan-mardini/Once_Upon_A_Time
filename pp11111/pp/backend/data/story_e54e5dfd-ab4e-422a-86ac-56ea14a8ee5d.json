@@ -1,0 +1,30 @@
+{
+  "storyId": "e54e5dfd-ab4e-422a-86ac-56ea14a8ee5d",
+  "userId": "K33FGSDBQVMBSA7TljJbGKF6p1p1",
+  "title": "the barve cat",
+  "dedication": "to aya",
+  "recipient": {
+    "name": "aya",
+    "relationship": "Best Friend",
+    "age": "22",
+    "occasion": "Graduation",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "animal",
+    "characterName": "Lily",
+    "age": "6",
+    "skinTone": "orange",
+    "hairColor": "no",
+    "accessories": "Glasses"
+  },
+  "storyDescription": "lily a brave cat that loves to explore",
+  "numPages": "1",
+  "generatedStory": [
+    "Page 1:\nOnce upon a time, there was a brave little cat named Lily. Lily lived in a small, cozy house on a hill. One sunny morning, Lily decided to set off on an adventure. As she ventured into the vast meadow, the wind gently brushed against her orange skin. Lily crossed the meadow and reached the sparkling creek. After her fun water adventure, Lily climbed up a tall tree watching the world from above. Feeling tired, Lily decided to rest under a large leafy tree. When morning arrived, Lily returned home filled with wonderful memories. Lily's story is a reminder to Aya, and all her friends, that no matter the challenges faced, bravery and courage will power you through. Lily and all other brave hearts are proud of you!"
+  ],
+  "imageUrls": [
+    "/images/K33FGSDBQVMBSA7TljJbGKF6p1p1/e54e5dfd-ab4e-422a-86ac-56ea14a8ee5d/img0.png"
+  ],
+  "timestamp": "2025-05-20T20:39:36.545Z"
+}

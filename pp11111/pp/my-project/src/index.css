@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.container {
+    max-width: 100vw; /* Prevents overflow */
+    overflow-x: hidden; /* Hides horizontal scroll */
+    padding-left: 1rem; /* Adds left padding */
+    padding-right: 1rem; /* Adds right padding */
+  }
+ 
+
+
+  .text-fix {
+    color: black !important; /* Ensures text is always visible */
+  }
+  

@@ -1,0 +1,32 @@
+{
+  "storyId": "5bd233a0-d3f8-473d-a6f5-5077e54a6c61",
+  "userId": "K33FGSDBQVMBSA7TljJbGKF6p1p1",
+  "title": "Happy bee ",
+  "dedication": "to my baby",
+  "recipient": {
+    "name": "ahmad",
+    "relationship": "Brother",
+    "age": "7",
+    "occasion": "Birthday",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "animal ",
+    "characterName": "lolo",
+    "age": "7",
+    "skinTone": "yellow and black striped body",
+    "hairColor": "no",
+    "accessories": "no"
+  },
+  "storyDescription": "A happy bee that loves its life ",
+  "numPages": "2",
+  "generatedStory": [
+    "Once upon a time in a colorful garden, lived a cheerful bee named Lolo. Just like Ahmad, Lolo was 7 years old and had a shining yellow and black striped body that shimmered in the",
+    "sunlight. Lolo just adored his life in the garden. Every day, he would fly around, visiting the blooming flowers and collecting sweet nectar. His hum was a tune of joy that brightened up the day"
+  ],
+  "imageUrls": [
+    "/images/K33FGSDBQVMBSA7TljJbGKF6p1p1/5bd233a0-d3f8-473d-a6f5-5077e54a6c61/img0.png",
+    "/images/K33FGSDBQVMBSA7TljJbGKF6p1p1/5bd233a0-d3f8-473d-a6f5-5077e54a6c61/img1.png"
+  ],
+  "timestamp": "2025-05-24T22:19:35.400Z"
+}

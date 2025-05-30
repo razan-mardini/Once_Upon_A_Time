@@ -1,0 +1,32 @@
+{
+  "storyId": "5e5aec0c-f7b8-4a48-ab20-51ed3e4aa26e",
+  "userId": "K33FGSDBQVMBSA7TljJbGKF6p1p1",
+  "title": "boby",
+  "dedication": "for my friend",
+  "recipient": {
+    "name": "Liam",
+    "relationship": "friend",
+    "age": "6",
+    "occasion": "First day of school",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "animal",
+    "characterName": "boby",
+    "age": "7",
+    "skinTone": "black",
+    "hairColor": "Black",
+    "accessories": "Glasses"
+  },
+  "storyDescription": "lovely dog playing with his friends",
+  "numPages": "2",
+  "generatedStory": [
+    "Page 1:\nPage 1: Today was Boby the dog's first day of school. He put on his glasses, brushed his black fur, and licked his black nose. Boby looked at his reflection and gave a happy wag with his tail. He was excited to meet his new friends. Page",
+    "Page 2:\n2: At school, Boby saw lots of interesting dogs. There was a dog with spots, one with fluffy fur, and even one with a curly tail. He played fetch with his friends, tails wagging and tongues out. Boby's first day of school was fun-filled and exciting!"
+  ],
+  "imageUrls": [
+    "/images/user_K33FGSDBQVMBSA7TljJbGKF6p1p1_img0.png",
+    "/images/user_K33FGSDBQVMBSA7TljJbGKF6p1p1_img1.png"
+  ],
+  "timestamp": "2025-05-08T11:22:43.722Z"
+}

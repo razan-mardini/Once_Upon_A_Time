@@ -1,0 +1,32 @@
+{
+  "title": "Lina's Secret Garden Adventure",
+  "dedication": "To my sweet cousin Nour, your imagination always inspires me.",
+  "recipient": {
+    "name": "Nour",
+    "relationship": "cousin",
+    "age": "7",
+    "occasion": "Birthday",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "girl",
+    "characterName": "Lina",
+    "age": "7",
+    "skinTone": "Light",
+    "hairColor": "Black",
+    "accessories": "wearing a pink sunhat and a flower-shaped necklace"
+  },
+  "storyDescription": "Lina finds a mysterious glowing seed in her backyard. When she plants it, a magical garden grows overnight, full of talking plants, glowing butterflies, and secret doors. She goes on an adventure to uncover the mystery behind the seed.",
+  "numPages": "3",
+  "generatedStory": [
+    "Page 1:\nPage 1: In her backyard, Lina found a glowing seed. \"What's this? Page 2: She dug a small hole and planted the mysterious seed. She then rushed inside for dinner, leaving the glowing seed behind. \"This was just a seed yesterday! Page 4: The garden was magical, with talking flowers and glowing butterflies. She laughed in delight, dancing with the butterflies.",
+    "Page 2:\nWith a twinkle in her eye, she decided to explore. Page 6: Each door had a different surprise. Lina's eyes lit up with every new discovery. \" The tree replied, \"I am The Eldertree, this is a magical sanctuary, an escape gifted to you. The garden became her lovely secret. Page 9: One day, Lina decided to share her secret. Nour",
+    "Page 3:\ngasped, the colours of everything around her reflected in her wide, bright eyes. The garden celebrated, its magic doubled with the girls' laughter. Page 11: Now, they often visit the garden, always finding something new. They know they can always have an adventure, thanks to Lina's seed. She knew that there's always magic around, you just need to find it."
+  ],
+  "imageUrls": [
+    "/images/user_user_1744739629436_img0.png",
+    "/images/user_user_1744739629436_img1.png",
+    "/images/user_user_1744739629436_img2.png"
+  ],
+  "timestamp": "2025-04-15T21:39:25.895Z"
+}

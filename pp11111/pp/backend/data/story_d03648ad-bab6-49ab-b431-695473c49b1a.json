@@ -1,0 +1,32 @@
+{
+  "storyId": "d03648ad-bab6-49ab-b431-695473c49b1a",
+  "userId": "K33FGSDBQVMBSA7TljJbGKF6p1p1",
+  "title": "The Little Butterfly :))",
+  "dedication": "For my dear niece",
+  "recipient": {
+    "name": "Emma",
+    "relationship": "niece",
+    "age": "5",
+    "occasion": "Birthday",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "animal",
+    "characterName": "Bella",
+    "age": "1",
+    "skinTone": "colorful ",
+    "hairColor": "rainbow wings",
+    "accessories": "no"
+  },
+  "storyDescription": "A lovely little butterfly exploring the garden and making new friends",
+  "numPages": "2",
+  "generatedStory": [
+    "Once upon a time, there was a vibrant little butterfly named Bella. She looked even more amazing with her rainbow wings fluttering around the lush garden. On her journey, Bella met many new friends. A giggling Caterpillar named Olly, a",
+    "hopping Grasshopper named Gus, and a radiant Ladybug named Lucy. Each day was full of enchanting discoveries. They had lots of fun every day and enjoyed each other's company, proving that true friends make life more colorful and adventurous."
+  ],
+  "imageUrls": [
+    "/images/K33FGSDBQVMBSA7TljJbGKF6p1p1/d03648ad-bab6-49ab-b431-695473c49b1a/img0.png",
+    "/images/K33FGSDBQVMBSA7TljJbGKF6p1p1/d03648ad-bab6-49ab-b431-695473c49b1a/img1.png"
+  ],
+  "timestamp": "2025-05-29T23:34:31.961Z"
+}

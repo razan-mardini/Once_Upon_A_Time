@@ -1,0 +1,32 @@
+{
+  "storyId": "7bd018e7-ed95-4d35-a66a-c0201e7a8791",
+  "userId": "K33FGSDBQVMBSA7TljJbGKF6p1p1",
+  "title": "The Forest Talent Show",
+  "dedication": "For the one who always shines bright",
+  "recipient": {
+    "name": "Adam",
+    "relationship": "nephew",
+    "age": "5",
+    "occasion": "Other",
+    "customOccasion": "his graduation from kindergarten"
+  },
+  "character": {
+    "mainCharacter": "animal",
+    "characterName": "Benny the Bunny",
+    "age": "5",
+    "skinTone": "soft white fur",
+    "hairColor": "fluffy gray ears",
+    "accessories": "a tiny blue bow tie and shiny red shoes"
+  },
+  "storyDescription": "Benny the Bunny wants to perform in the forest talent show but feels nervous. With help from his animal friends, he discovers his hidden talent and learns the joy of trying.",
+  "numPages": "2",
+  "generatedStory": [
+    "Once there was a cute, little bunny named Benny. He had soft white fur, fluffy gray ears and wore a tiny blue bow tie and shiny red shoes. He loved dancing and hopping around in",
+    "the forest. Every year, the animals in the forest would organize a talent show. This year, Benny wanted to participate. But Benny was a shy bunny. He sat near his burrow, staring at the invite"
+  ],
+  "imageUrls": [
+    "/images/K33FGSDBQVMBSA7TljJbGKF6p1p1/7bd018e7-ed95-4d35-a66a-c0201e7a8791/img0.png",
+    "/images/K33FGSDBQVMBSA7TljJbGKF6p1p1/7bd018e7-ed95-4d35-a66a-c0201e7a8791/img1.png"
+  ],
+  "timestamp": "2025-05-25T21:42:09.193Z"
+}

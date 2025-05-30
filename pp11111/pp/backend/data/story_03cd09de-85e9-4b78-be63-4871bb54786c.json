@@ -1,0 +1,32 @@
+{
+  "storyId": "03cd09de-85e9-4b78-be63-4871bb54786c",
+  "userId": "K33FGSDBQVMBSA7TljJbGKF6p1p1",
+  "title": "The Little Butterfly",
+  "dedication": "For my dear niece",
+  "recipient": {
+    "name": "Emma",
+    "relationship": "niece",
+    "age": "5",
+    "occasion": "Birthday",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "animal",
+    "characterName": "Bella",
+    "age": "1",
+    "skinTone": "colorful",
+    "hairColor": "rainbow wings",
+    "accessories": "no"
+  },
+  "storyDescription": "A lovely little butterfly exploring the garden and making new friends",
+  "numPages": "2",
+  "generatedStory": [
+    "Once upon a time, Bella the little butterfly fluttered about in a vibrant garden. Her colorful skin and rainbow wings sparkled in the sunshine. She danced in and out of flowers, making friends with bees, birds, and tiny bugs. One day, Bella saw a",
+    "lonely caterpillar named Carlos. Bella shared her stories of flight, and made a new friend. From then on, Carlos looked forward to becoming a butterfly just like Bella. In this garden, Bella found friendship and joy in her journey as a little butterfly."
+  ],
+  "imageUrls": [
+    null,
+    null
+  ],
+  "timestamp": "2025-05-29T23:25:31.382Z"
+}

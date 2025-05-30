@@ -1,0 +1,32 @@
+{
+  "storyId": "2273ddb7-5061-4e30-81ec-0d969e89cdeb",
+  "userId": "K33FGSDBQVMBSA7TljJbGKF6p1p1",
+  "title": "The Little Butterfly",
+  "dedication": "For my dear niece",
+  "recipient": {
+    "name": "Emma",
+    "relationship": "niece",
+    "age": "5",
+    "occasion": "Birthday",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "animal",
+    "characterName": "Bella",
+    "age": "1",
+    "skinTone": "colorful",
+    "hairColor": "rainbow wings",
+    "accessories": "no"
+  },
+  "storyDescription": "A lovely little butterfly exploring the garden and making new friends",
+  "numPages": "2",
+  "generatedStory": [
+    "Once upon a time, there was a lovely little butterfly named Bella. Bella spent her days fluttering around her garden home with her colorful skin shimmering and her rainbow wings dancing in the sunlight. She loved greeting the flowers and making new friends with other small creatures. One day, she met a shy",
+    "little ladybug and a playful grasshopper. Bella showed them that everyone in the garden was a friend. Her new friends filled her heart with joy, and their garden was ever more beautiful with their friendship. Bella, the endearing butterfly, fluttered happily, spreading colors and kindness, making the garden a paradise for all."
+  ],
+  "imageUrls": [
+    "/images/K33FGSDBQVMBSA7TljJbGKF6p1p1/2273ddb7-5061-4e30-81ec-0d969e89cdeb/img0.png",
+    "/images/K33FGSDBQVMBSA7TljJbGKF6p1p1/2273ddb7-5061-4e30-81ec-0d969e89cdeb/img1.png"
+  ],
+  "timestamp": "2025-05-29T22:44:39.212Z"
+}

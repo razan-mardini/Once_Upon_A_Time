@@ -1,0 +1,34 @@
+{
+  "storyId": "7e1943ef-c69f-4c90-ab37-464e485a7a68",
+  "userId": "user_1745267764100",
+  "title": "Nono’s Adventure in the Magical Forest",
+  "dedication": "to my Friend",
+  "recipient": {
+    "name": "Sarah",
+    "relationship": "friend",
+    "age": "7",
+    "occasion": "First day of school",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "boy ",
+    "characterName": "Leo",
+    "age": "7",
+    "skinTone": "Light",
+    "hairColor": "Brown",
+    "accessories": "Glasses"
+  },
+  "storyDescription": "leo is a curious little boy who decides to explore the mysterious forest near his village. There, he encounters magical creatures and helps them solve an ancient riddle.",
+  "numPages": "3",
+  "generatedStory": [
+    "Page 1:\nPage 1 Leo, a boy with glasses and brown hair, set off to explore the vast, mysterious forest beyond his village. His heart pounded with eagerness as he stepped onto the mossy woodland path lit by the golden morning sunlight. Page 2 In the",
+    "Page 2:\nheart of the forest, Leo met Nono, a little gnome with a bushy white beard. Nono held out a crumbling scroll that told a tale of an ancient riddle. His bright eyes sparkled with wonder for Leo's help. Page 3 And so they journeyed",
+    "Page 3:\ndeeper, where trees whispered secrets and magical creatures peeked behind leaves. With courage and teamwork, they solved the ancient riddle, bringing laughter and celebration throughout the forest. Leo was no longer just a villager; he was a hero in the magical forest."
+  ],
+  "imageUrls": [
+    "/images/user_user_1745267764100_img0.png",
+    "/images/user_user_1745267764100_img1.png",
+    "/images/user_user_1745267764100_img2.png"
+  ],
+  "timestamp": "2025-04-21T20:41:47.896Z"
+}

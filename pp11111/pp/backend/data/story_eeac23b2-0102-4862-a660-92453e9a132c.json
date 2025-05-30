@@ -1,0 +1,32 @@
+{
+  "storyId": "eeac23b2-0102-4862-a660-92453e9a132c",
+  "userId": "K33FGSDBQVMBSA7TljJbGKF6p1p1",
+  "title": "Tina the Turtle",
+  "dedication": "To my little explorer",
+  "recipient": {
+    "name": "Liam",
+    "relationship": "friend",
+    "age": "6",
+    "occasion": "First day of school",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "animal",
+    "characterName": "Tina",
+    "age": "7",
+    "skinTone": "green",
+    "hairColor": "None",
+    "accessories": "A little red backpack"
+  },
+  "storyDescription": "a kind turtle exploring school for the first time",
+  "numPages": "2",
+  "generatedStory": [
+    "Page 1:\nPage 1: Tina the turtle woke up very excited. It was her first day of school. Page 2: She walked slowly to Dixie High, the best school under the sea. Page 3: At school, she met her teacher, Mrs. \"Welcome, Tina, my dear,\" the smiling crab said. Page 4: Tina saw many classrooms. The art room",
+    "Page 2:\nhad rainbows painted everywhere. Page 5: During break, she played hide-and-seek with her new friends. Page 6: At lunch, they all sat around a giant clamshell table. Page 7: On the ride home, Tina felt tired but happy. Page 8: Tina crawled into her sand bed, thinking of the amazing day she had at school."
+  ],
+  "imageUrls": [
+    "/images/K33FGSDBQVMBSA7TljJbGKF6p1p1/eeac23b2-0102-4862-a660-92453e9a132c/img0.png",
+    "/images/K33FGSDBQVMBSA7TljJbGKF6p1p1/eeac23b2-0102-4862-a660-92453e9a132c/img1.png"
+  ],
+  "timestamp": "2025-05-19T22:12:07.080Z"
+}

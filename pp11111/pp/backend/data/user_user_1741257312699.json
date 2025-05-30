@@ -1,0 +1,37 @@
+{
+  "title": "ana",
+  "dedication": "to ",
+  "recipient": {
+    "name": "razan",
+    "relationship": "Brother",
+    "age": "12",
+    "occasion": "Birthday",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "Liam",
+    "characterName": "Ella",
+    "age": "12",
+    "skinTone": "Light",
+    "hairColor": "Golden",
+    "accessories": "A magical wand"
+  },
+  "characters": [
+    {
+      "characterTrait": "Brave, Curious, Kind",
+      "physicalAppearance": "Short, wearing a purple dress, sparkly shoes"
+    },
+    {
+      "characterTrait": "Brave, Curious, Kind",
+      "characterName": "Brave Liam",
+      "relationship": "Brother",
+      "age": "12",
+      "skinTone": "Fair",
+      "hairColor": "Brown",
+      "accessories": "Glasses",
+      "physicalAppearance": "Short, wearing a purple dress, sparkly shoes",
+      "image": null
+    }
+  ],
+  "storyDescription": "djfsjfhjfhjsdhfjkh"
+}

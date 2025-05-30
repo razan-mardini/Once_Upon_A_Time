@@ -1,0 +1,38 @@
+{
+  "title": " Luna and the Magical Forest",
+  "dedication": "For my little sister, Emma",
+  "recipient": {
+    "name": "Emma",
+    "relationship": "little sister",
+    "age": "6",
+    "occasion": "Other",
+    "customOccasion": "goodnight story"
+  },
+  "character": {
+    "mainCharacter": "Luna",
+    "characterName": "luna",
+    "age": "7",
+    "skinTone": "fair",
+    "hairColor": "golden blonde",
+    "accessories": "a sparkling blue cape"
+  },
+  "characters": [
+    {
+      "characterTrait": "Brave, Curious, Kind",
+      "physicalAppearance": "fair,golden blonde"
+    }
+  ],
+  "storyDescription": "A curious girl named Luna discovers a hidden magical forest where animals can talk, and she embarks on a journey to help a lost fairy find her way home.",
+  "numPages": "3",
+  "generatedStory": [
+    "Title: Luna and the Magical Forest",
+    "Dedication: For my little sister, Emma",
+    "Once upon a time, in a small village nestled between rolling hills and lush green valleys, there lived a curious and adventurous girl named Luna. Luna was seven years old, with fair skin, golden blonde hair, and always wore a sparkling blue cape that shimmered in the sunlight."
+  ],
+  "imageUrls": [
+    "/images/user_user_1742307293379_img0.png",
+    null,
+    null
+  ],
+  "timestamp": "2025-03-18T14:19:59.196Z"
+}

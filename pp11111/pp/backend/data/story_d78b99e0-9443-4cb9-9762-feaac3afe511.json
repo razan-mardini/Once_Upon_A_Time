@@ -1,0 +1,30 @@
+{
+  "storyId": "d78b99e0-9443-4cb9-9762-feaac3afe511",
+  "userId": "K33FGSDBQVMBSA7TljJbGKF6p1p1",
+  "title": " the Turtle",
+  "dedication": "to my sister",
+  "recipient": {
+    "name": "Nour",
+    "relationship": "sibling",
+    "age": "7",
+    "occasion": "First day of school",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "animal",
+    "characterName": "Leo",
+    "age": "7",
+    "skinTone": "green",
+    "hairColor": "no",
+    "accessories": "A little red backpack"
+  },
+  "storyDescription": "a kind turtle exploring school for the first time",
+  "numPages": "1",
+  "generatedStory": [
+    "Page 1:\nPage 1: Leo the turtle woke up early. His heart fluttered with excitement as he put on a red backpack. The bus stop was at the end of the blue pond. Page 3: The school bus was huge! Leo climbed aboard, his red backpack contrasting against his green skin. Page 4: Inside, the bus was a rainbow of colors, filled with many different creatures. Leo found a seat next to an orange hare who had big friendly eyes. The rabbit’s name was Rocky. This made Leo feel much less anxious. It was a large brick building, surrounded by a beautiful green field. His first day at school was about to begin. He scanned the room, taking in the colorful posters and the smell of new books. Page 8: As the day went on, Leo learned new things and made even more friends. He felt happy and safe. Surprisingly, even lettuce tasted better at school. Page 10: At the end of the day, Leo climbed onto the bus, smiling. As he reached home, he realized something."
+  ],
+  "imageUrls": [
+    null
+  ],
+  "timestamp": "2025-05-20T19:39:58.197Z"
+}

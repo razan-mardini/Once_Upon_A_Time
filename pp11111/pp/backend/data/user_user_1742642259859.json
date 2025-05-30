@@ -1,0 +1,38 @@
+{
+  "title": "The Little Girl's Adventures",
+  "dedication": "To my friends at school",
+  "recipient": {
+    "name": "Sarah",
+    "relationship": "friend",
+    "age": "8",
+    "occasion": "Birthday",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "girl",
+    "characterName": "Reem",
+    "age": "8",
+    "skinTone": "Light brown",
+    "hairColor": "Brown",
+    "accessories": "Pink hat and a small backpack"
+  },
+  "characters": [
+    {
+      "characterTrait": "Curious & Brave",
+      "physicalAppearance": "Brown hair,Pink hat and a small backpack"
+    }
+  ],
+  "storyDescription": "\"This story tells about the adventures of Reem the girl in the forest, where she meets animals and learns lessons about friendship and bravery.",
+  "numPages": "3",
+  "generatedStory": [
+    "Page 1:\n Once upon a time, in a not too distant neighborhood, lived an 8-year-old girl  named Reem. Reem had light brown skin, brown hair that curled playfully around  her ears, and she always wore her favorite pink hat and a small backpack. She  was as bright as a summer day and as adventurous as an explorer. One day she  decided to leave her home and venture into the great forest beyond her house. \n As she stepped onto the grass, a beautiful butterfly fluttered by. \"Hello,  butterfly!\" Reem waved. To her surprise, the butterfly landed on her pink hat.  \"I am Betsy the butterfly, I live in this forest,\" it said.\n",
+    "to know each other better. They played together, shared stories, and never for a  second did they feel alone. Suddenly, they heard a low growl. Reem became  nervous, but she decided to show courage and not retreat.\n From the bushes emerged a young cub. The cub looked scared and alone. Reem  carefully approached the cub and gently extended her hand. \"Hello there, little  one, what's your name?\"\n \"I am Coby the cub,\" it said in a trembling voice, \"I...I have lost my way back  home.\" Reem instantly felt sympathy for Coby. With Betsy on her hat, she reached  out and hugged the little cub.\n",
+    "and in return, she gained another friend.\n As the day turned into evening and the beautiful moon took over the sky, Reem,  Betsy, and Coby reached the destination. \"Thank you, Reem,\" Coby said as he bid  her conscious farewell by rubbing his soft head against her leg. Reem watched as  Coby ran happily into his cave, finally back home.\n The adventure ended with Reem and Betsy returning to their home under the starry  sky. They had learned valuable lessons: they faced their fears, they fought for  their friends, and most importantly, they understood the significance of  friendship.\n"
+  ],
+  "imageUrls": [
+    "/images/user_user_1742642259859_img0.png",
+    "/images/user_user_1742642259859_img1.png",
+    "/images/user_user_1742642259859_img2.png"
+  ],
+  "timestamp": "2025-03-22T11:23:32.507Z"
+}

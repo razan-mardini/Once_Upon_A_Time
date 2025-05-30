@@ -1,0 +1,34 @@
+{
+  "storyId": "cc3b52a9-944f-4815-8fe9-74938cc1bae4",
+  "userId": "user_1745267764100",
+  "title": "Nono’s Adventure in the Magical Forest",
+  "dedication": "to my Friend",
+  "recipient": {
+    "name": "Sarah",
+    "relationship": "friend",
+    "age": "7",
+    "occasion": "First day of school",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "boy ",
+    "characterName": "Leo",
+    "age": "7",
+    "skinTone": "Light",
+    "hairColor": "Brown",
+    "accessories": "Glasses"
+  },
+  "storyDescription": "leo is a curious little boy who decides to explore the mysterious forest near his village. There, he encounters magical creatures and helps them solve an ancient riddle.",
+  "numPages": "3",
+  "generatedStory": [
+    "Page 1:\nPage 1: Meet Leo, a curious seven-year-old who lived next to an ancient, intriguing forest. His bright brown eyes sparkled behind his glasses in excitement. Then, amazingly, a small creature with big, green eyes appeared. Nono looked worried, his fluffy tail flicked anxiously. Eager",
+    "Page 2:\nto help, Leo listened as Nono chirped, \"What is never out of sight, but is often forgotten? Page 4: With a thoughtful gaze, Leo adjusted his glasses, looking at his own reflection. \" Nono's eyes twinkled in delight. The forest glowed vibrantly, as the",
+    "Page 3:\nmagic returned. Leo felt an overwhelming sense of pride and warmth. Page 6: Leo returned home, with the magical forest forever etched in his mind. Leo's earnest curiosity had led him to a cherished, unforgettable adventure before his first day of school."
+  ],
+  "imageUrls": [
+    "/images/user_user_1745267764100_img0.png",
+    "/images/user_user_1745267764100_img1.png",
+    "/images/user_user_1745267764100_img2.png"
+  ],
+  "timestamp": "2025-04-21T20:51:46.834Z"
+}

@@ -1,0 +1,44 @@
+{
+  "title": "boby",
+  "dedication": "for my friends",
+  "recipient": {
+    "name": "Liam",
+    "relationship": "friend",
+    "age": "6",
+    "occasion": "First day of school",
+    "customOccasion": ""
+  },
+  "character": {
+    "mainCharacter": "animal",
+    "characterName": "boby",
+    "age": "7",
+    "skinTone": "black and white dots",
+    "hairColor": "Black",
+    "accessories": "Glasses"
+  },
+  "characters": [
+    {
+      "characterTrait": "Brave, Curious, Kind",
+      "physicalAppearance": "dog with white and black dots wearing glasses"
+    }
+  ],
+  "storyDescription": "lovely dog playing with his friends ",
+  "numPages": "3",
+  "generatedStory": [
+    "Title: Boby\n\n\nDedicated to: Liam and my friends\n",
+    "---\n\nOnce upon a time in a small town named Fluffyville, lived a delightful little dog named Boby. Boby was not an ordinary dog, he was seven years old and had an unusually beautiful black and white dotted skin. Over his big, expressive eyes, he wore adorable, little glasses that made him look incredibly smart as well as appealing.\n\nOne particular morning, on the first day of school, Boby was very excited to meet his friends after a long summer vacation. With his tail wagging eagerly, he scampered out of his dog house. He was looking forward to another school year, as school was where he loved to be the most. ",
+    "\nHis friends were different kinds of animals: there was Susie, the squirrel; Timmy, the turtle; and Megan, the monkey. They were all waiting for Boby as he raced towards the school, his little glasses bouncing with the rhythm of his steps. Boby loved all his friends, and his friends loved him back, for he was the most charming and caring dog anyone could wish for.\n\nWhen Boby arrived at school, a big smile lightened his face as he saw his friends. First, he played fetch with Susie, who was very good at tossing the tiny pebbles with her tiny squirrel paws. Next, Boby waited patiently as Timmy slowly caught up with them. He never rushed Timmy or insisted on playing too strenuous games considering his slow turtle pace. They sat under a tree, chatting and munching on some apple treats that Timmy had brought for everyone from his garden. \n",
+    "Then, Boby heard a hoot from atop the tree - it was Megan, swinging from one branch to another, inviting Boby to join in the monkey games. Boby, though a dog, loved climbing trees with Megan. And so, up went Boby, showing his great doggy prowess, much to Megan's delight.\n\nIn the afternoon, all of them gathered in the playground to play their favorite game, Hide-n-Seek. Megan was very good at finding everyone because of her height from up in the trees. Susie was the best hider because she was so tiny and could squeeze into nooks and corners. Timmy was the slowest to hide, yet he always found inventive places where none would think to look. As for Boby, he was the best seeker. His glasses helped him spot hiding friends and his doggy sense of smell helped him sniff out everyone no matter how well they were hidden.\n\nAs the sun began to set, Boby felt a sense of contentment. The first day of school had been so fun and filled with laughter, games, and happiness. He looked forward to many more days like this. As he was about to leave, he turned around and gave his friends a big doggy hug. His friends kissed him goodbye and waved their hands (or paws and tails) as Boby trotted his way back home.",
+    "\nAs he got into his cozy, little bed that night, Boby realized how fortunate he was to have such amazing friends. They always knew how to have a fun time and how to look out for each other. Every day was an adventure for Boby, filled with love and caring companionship from his true friends.\n\nAnd so, in Fluffyville, lived Boby, the dot-skinned, glasses-wearing dog who played with his lovely friends and had the time of his life. This was indeed a delightful tale of beautiful friendships and simple pleasures of childhood. Boby fell asleep readily that night, dreaming about the next fun-filled day that awaited him and his friends.\n",
+    "---\nTHE END."
+  ],
+  "imageUrls": [
+    "/images/user_user_1742773945292_img0.png",
+    "/images/user_user_1742773945292_img1.png",
+    null,
+    null,
+    "/images/user_user_1742773945292_img4.png",
+    "/images/user_user_1742773945292_img5.png"
+  ],
+  "timestamp": "2025-03-23T23:58:35.408Z"
+}
