@@ -257,10 +257,7 @@ const AddFeedback = () => {
         <button type="submit" className="bg-purple-500 text-white py-2 px-4 rounded w-full">
           Submit
         </button>
-        <br/>
-        <br/>
-         <button type="button" onClick={() => navigate("/")} className="bg-purple-500 text-white py-2 px-4 rounded w-full">Back to Home</button>
-
+        
       </form>
        
 
