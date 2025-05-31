@@ -1,6 +1,6 @@
 
 
-const youtubeUrl = 'https://youtu.be/P3ZTxke4AOU';
+const youtubeUrl = 'https://youtu.be/iq7IZ8Wml2E';
 
 const HowItWorks = () => {
   let embedUrl = '';
